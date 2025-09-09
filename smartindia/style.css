@@ -1,0 +1,47 @@
+   
+.logo{
+    position:absolute;
+    left: 200px;
+    
+}
+h1{
+    
+    color:orangered;
+    
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 200px;
+        left: 450px;
+
+
+}
+.img-button1{
+            
+border-radius: 30%;
+overflow: hidden;
+display: flex;
+align-items: center;
+justify-content: center;
+
+    position: absolute;
+    top: 350px;
+    left: 400px;
+    
+}
+.img-button2{
+    
+     border-radius: 30%;
+     overflow: hidden;
+display: flex;
+align-items: center;
+justify-content: center;
+
+    position: absolute;
+    top: 350px;
+    right:400px;
+    
+}
+
+
+
+
